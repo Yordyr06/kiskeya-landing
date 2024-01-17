@@ -2,10 +2,10 @@ import { FaFacebook, FaInstagram, FaYoutube, FaLink  } from "react-icons/fa6";
 
 export const Footer = ():JSX.Element => {
   return (
-    <footer className="h-auto w-auto flex flex-col mt-10 p-4 gap-10 bg-auto rounded-md">
+    <footer className="h-auto w-auto flex flex-col mt-10 p-4 gap-2 bg-auto rounded-md">
       <div className="flex justify-center py-8">
         <img
-          className="rounded-full" 
+          className="w-24 rounded-full" 
           src="https://yt3.googleusercontent.com/ytc/AIf8zZT696k3dDu6HT2DRHBX0oFZLVNO1dr_nSnUlNEA-A=s176-c-k-c0x00ffffff-no-rj"/>
       </div>
       
