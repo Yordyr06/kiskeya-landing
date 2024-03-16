@@ -1,0 +1,5 @@
+API_KEY = AIzaSyCUp2_YV9hMkLcSvmNQRz8YDO254jn3odA
+CHANNEL_ID = UC1gKBgknwlQagEnq4Q-UnCg
+UPLOADS_ID = 
+API_URL = https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UC1gKBgknwlQagEnq4Q-UnCg&maxResults=10&order=date&key=AIzaSyCUp2_YV9hMkLcSvmNQRz8YDO254jn3odA
+VIDEO_URL = https://www.youtube.com/watch?v=[VIDIEO_ID]
